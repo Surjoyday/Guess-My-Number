@@ -2,7 +2,7 @@
 
 Welcome to the Number Guessing Game! Challenge yourself to guess the correct number and maintain a high score.
 
-**Play the Game: [Guess My Number](https://surjoyday.github.io/Guess_My_Number/)**
+**Play the Game: [Guess My Number](https://guess-my-number-miniproject.netlify.app/)**
 
 ## Overview
 
